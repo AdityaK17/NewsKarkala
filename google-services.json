@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503462716576",
+    "project_id": "adi-app-cff3c",
+    "storage_bucket": "adi-app-cff3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503462716576:android:0c9302e177682f019f55c5",
+        "android_client_info": {
+          "package_name": "com.beast.adi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503462716576-796bokfo57rgmthrn9kn4em6gdveemd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiuhXsYjtC8yK4BscFdU15XsqAh3jWRYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503462716576-796bokfo57rgmthrn9kn4em6gdveemd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
